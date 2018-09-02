@@ -88,7 +88,7 @@ main > .tagline {
 	transform: translateX(-50%);
 	height: 35vh;
 	min-height: 200px;
-	max-height: 800px;	
+	max-height: 800px;
 	border: 2px solid #0B2F82;
 	z-index: 1;
 }
@@ -97,7 +97,7 @@ main > .tagline {
 	z-index: 2;
 }
 
-.syntax img {
+.syntax img, .digital-jersey img {
 	width: 2.9em;
 	transform: translateY(7px);
 }
